@@ -34,7 +34,7 @@
                    FontSize="24"
                    Grid.Column="1"
                    Grid.Row="0"></TextBlock>
-        <TextBlock Text="Третий множитель" 
+        <TextBlock Text="Произведение" 
                    VerticalAlignment="Center" 
                    HorizontalAlignment="Center"
                    FontSize="24"
